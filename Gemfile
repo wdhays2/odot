@@ -39,6 +39,7 @@ end
 group :test do
 	gem 'capybara', '~> 2.1.0'
 	gem 'debugger'
+	gem 'shoulda-matchers', '~> 2.8.0'
 end
 
 # Use ActiveModel has_secure_password
