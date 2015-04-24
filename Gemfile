@@ -38,6 +38,7 @@ end
 
 group :test do
 	gem 'capybara', '~> 2.1.0'
+	gem 'debugger'
 end
 
 # Use ActiveModel has_secure_password
