@@ -16,6 +16,11 @@ div.alert {
 	padding: 10px;
 }
 
+div.nav h1 {
+	float: left;
+	margin: 0 1em 0 0;
+}
+
 div.flash.success { border: 2px solid green; color: green; }
 div.flash.error   { border: 2px solid red;   color: red;   }
 div.flash.notice  { border: 2px solid blue;  color: blue;  }
